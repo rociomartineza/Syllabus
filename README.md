@@ -1,8 +1,7 @@
 # Syllabus
 Página principal del curso **IIC1005 - Computación: Ciencia y** 
 **Tecnología del Mundo Digital**.
-Para dudas sobre la materia o enunciados de tareas puedes abrir una 
-[*ichus*](https://github.com/Exploratorio-DCC-PUC/Syllabus/issues).
+Para dudas sobre la materia o enunciados de tareas puedes preguntar en [Piazza](https://piazza.com/class/jt4tdusr34o6z8).
 
 ## Equipo Docente
 
